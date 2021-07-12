@@ -1,7 +1,7 @@
 # bachelor-s_graduate_project
 Hello, my name is Nalimova Elizaveta Alekseevna. I am 21 years old. I have bachelor's degree in specialty "Information Security".
 My graduation project was named "Information security incident managment based on artifical intellegence methods". I'll be honest, the title doesn't match with content.
-The dicrepancy is due to tight deadlines and the fact that I was alone development. I wanted to develop system similar to SIEM. But I overestimated my capabilities, only incident
+The dicrepancy is due to tight deadlines and the fact that I was alone developer. I wanted to develop system similar to SIEM. But I overestimated my capabilities, only incident
 response was implemented in my project. I tried to compensate for this shortcoming with my research and achieved little success.
 Project discription:
 1. I had raw JSON files with malware signatures in the form of messages from antivirus and network traffic in the form Wireshark files (.pcap).
